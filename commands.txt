@@ -1,0 +1,9 @@
+git status - проверка изменений
+git add . - индекцаси€ всех изменений
+git commit -m " акой-то комментарий"
+git config --global user.name "Vitaliy" - настройка имени пользовател€
+git config --global user.email "some_email@gmail.com" - настройка email пользовател€
+git branch -a - вывод доступных веток
+git clone <путь к удаленному репозиторию>
+git checkout <им€ ветки>
+git remote add name <путь к удаленному репозиторию>
